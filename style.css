@@ -1,0 +1,43 @@
+.frame {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2px;
+    row-gap: ;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width:200px;
+    height:200px;
+    color: red;
+    padding-top: 5px;
+   
+}
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20vh;
+
+}
+#screen{
+    border: 1px solid black;
+    width:200px;
+    height:60px;
+    padding: 0;
+
+}
+button{
+    height:30px;
+    width:40px
+}
+div{
+    height:30px;
+}
+
+#screen{
+    border-bottom: 0px;
+}
+#equal{
+    height:30px;
+    width:90px
+}
