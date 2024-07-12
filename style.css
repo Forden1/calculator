@@ -4,7 +4,7 @@
     justify-content: space-around;
     gap: 2px;
     flex-wrap: wrap;
-    border: 1px solid black;
+    border: 6px solid black;
     width:200px;
     height:200px;
     color: red;
@@ -17,15 +17,15 @@ body{
     text-align: center;
     justify-content: center;
     padding-top: 20vh;
-    background-image: url('lofi-music-chill-vibes-sunset-background-wallpaper_684882-324.avif');
-    background-size: cover; 
-    background-position: center;
+ 
     height: 100vh;;
     width: auto;
     overflow: hidden;
+    background-color: lightblue;
+    
 }
 #screen{
-    border: 1px solid black;
+    border: 6px solid black;
     width:200px;
     height:60px;
     font-size: 35px;
